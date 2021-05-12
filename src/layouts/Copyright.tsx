@@ -10,7 +10,7 @@ function Copyright() {
         <Typography variant="body2" color="textSecondary" align="center">
           {"© "}
           <Link color="inherit" href={pkg.repository.url} target="_blank">
-            便携小空调
+            云空调
           </Link>
           {" - "}
           <Link color="inherit" href={pkg.author.url} target="_blank">
