@@ -38,9 +38,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/YunYouJun/air-conditioner"
+        "url": "https://github.com/tdouguo/air-conditioner"
     },
-    "homepage": "https://ac.yunyoujun.cn/",
+    "homepage": "https://ac.tdouguo.com/",
     "dependencies": {
         "@emotion/react": "^11.4.0",
         "@emotion/styled": "^11.3.0",
