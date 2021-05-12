@@ -10,7 +10,7 @@ function Copyright() {
         <Typography variant="body2" color="textSecondary" align="center">
           {"© "}
           <Link color="inherit" href={pkg.repository.url} target="_blank">
-            Yun Air Conditioner
+            便携小空调
           </Link>
           {" - "}
           <Link color="inherit" href={pkg.author.url} target="_blank">
@@ -19,7 +19,7 @@ function Copyright() {
         </Typography>
       </Box>
       <Typography variant="body2" color="textSecondary" align="center">
-        {" 2019 - " + new Date().getFullYear()}
+        {new Date().getFullYear()}
       </Typography>
     </div>
   );
